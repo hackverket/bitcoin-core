@@ -180,10 +180,13 @@
         <translation>ቦርሳዎ ምስጢር ተደርጓል</translation>
     </message>
     <message>
+<<<<<<< HEAD
         <source>%1 will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
         <translation>%1 የማመስጠር ሂደቱን ለመጨረስ አሁን ይዘጋል:: ያስታውሱ፣ ኮምፒተርዎ በተንኮል አዘል ሶፍትዌር ከተበከለ ቦርሳዎን ማመስጠር ቢትኮይኖቾን ሙሉበሙሉ እንዳይሰረቁ ሊከላከል አይችልም::</translation>
     </message>
     <message>
+=======
+>>>>>>> df98c3a76ec9d072d4380b529f65315337299fc7
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
         <translation>አስፈላጊ: ከ ቦርሳ ፋይልዎ ያከናወኗቸው ቀደም ያሉ ምትኬዎች በአዲስ በተፈጠረ የማመስጠሪያ ፋይል ውስጥ መተካት አለባቸው. ለደህንነት ሲባል, አዲሱን የተመሰጠ የቦርሳ ፋይል መጠቀም ሲጀመሩ ወዲያውኑ ቀደም ሲል ያልተመሰጠሩ የቦርሳ ፋይል ቅጂዎች ዋጋ ቢስ ይሆናሉ::</translation>
     </message>
@@ -246,10 +249,13 @@
         <translation>&amp;አጠቃላይ እይታ</translation>
     </message>
     <message>
+<<<<<<< HEAD
         <source>Node</source>
         <translation>እትር</translation>
     </message>
     <message>
+=======
+>>>>>>> df98c3a76ec9d072d4380b529f65315337299fc7
         <source>Show general overview of wallet</source>
         <translation>የቦርሳ አጠቃላይ እይታ ኣሳይ</translation>
     </message>
@@ -429,6 +435,12 @@
     <name>UnitDisplayStatusBarControl</name>
     </context>
 <context>
+<<<<<<< HEAD
+=======
+    <name>WalletController</name>
+    </context>
+<context>
+>>>>>>> df98c3a76ec9d072d4380b529f65315337299fc7
     <name>WalletFrame</name>
     </context>
 <context>

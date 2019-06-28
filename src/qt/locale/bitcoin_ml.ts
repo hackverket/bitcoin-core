@@ -314,6 +314,12 @@
     <name>UnitDisplayStatusBarControl</name>
     </context>
 <context>
+<<<<<<< HEAD
+=======
+    <name>WalletController</name>
+    </context>
+<context>
+>>>>>>> df98c3a76ec9d072d4380b529f65315337299fc7
     <name>WalletFrame</name>
     </context>
 <context>

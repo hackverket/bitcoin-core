@@ -86,6 +86,7 @@
         <translation>Taridza ruzivo rwe Qt</translation>
     </message>
     <message>
+<<<<<<< HEAD
         <source>&amp;Sending addresses...</source>
         <translation>&amp;Makero ekutumira nawo</translation>
     </message>
@@ -94,6 +95,8 @@
         <translation>&amp;Makero ekutambira nawo</translation>
     </message>
     <message>
+=======
+>>>>>>> df98c3a76ec9d072d4380b529f65315337299fc7
         <source>Open &amp;URI...</source>
         <translation>Vhura &amp;URI</translation>
     </message>
@@ -102,10 +105,13 @@
         <translation>Bitcoin</translation>
     </message>
     <message>
+<<<<<<< HEAD
         <source>Wallet</source>
         <translation>Chikwama</translation>
     </message>
     <message>
+=======
+>>>>>>> df98c3a76ec9d072d4380b529f65315337299fc7
         <source>&amp;Send</source>
         <translation>&amp;Tumira</translation>
     </message>
@@ -252,6 +258,13 @@
         <source>Label</source>
         <translation>Zita</translation>
     </message>
+<<<<<<< HEAD
+=======
+    <message>
+        <source>Wallet</source>
+        <translation>Chikwama</translation>
+    </message>
+>>>>>>> df98c3a76ec9d072d4380b529f65315337299fc7
     </context>
 <context>
     <name>RecentRequestsTableModel</name>
@@ -341,6 +354,12 @@
     <name>UnitDisplayStatusBarControl</name>
     </context>
 <context>
+<<<<<<< HEAD
+=======
+    <name>WalletController</name>
+    </context>
+<context>
+>>>>>>> df98c3a76ec9d072d4380b529f65315337299fc7
     <name>WalletFrame</name>
     </context>
 <context>
